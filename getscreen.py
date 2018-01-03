@@ -20,18 +20,24 @@ def findRightBottomPoint(img_binary,rows,cols):
                     point = [i,j]
     return point
 
-start = time.time()
-img = cv2.imread('test pic/24.jpg')
-img_canny = cv2.Canny(img,127,255)
-cv2.imshow('canny',img_canny)
-rows, cols, _ = img.shape
-point1 = findLeftTopPoint(img_canny,rows, cols)
-point2 = findRightBottomPoint(img_canny,rows,cols)
-print point1,point2
-img_roi = img[point1[1]+2:point2[1]-2,point1[0]+2:point2[0]-2]
-cv2.imshow('img_roi', img_roi)
+def getScreen(filename):
+    start = time.time()
+    img = cv2.imread(filename)
+    img_canny = cv2.Canny(img,127,255)
+    cv2.imshow('img',img)
+    cv2.imshow('img_canny',img_canny)
+    rows, cols, _ = img.shape
+    point1 = findLeftTopPoint(img_canny,rows, cols)
+    point2 = findRightBottomPoint(img_canny,rows,cols)
+    print point1,point2
+    img_roi = img[point1[1]+2:point2[1]-2,point1[0]+2:point2[0]-2]
+    return img_roi
 
-cv2.waitKey(100000)
-cv2.destroyAllWindows()
+# getScreen('runlog/2018-01-01-173007/orign/0.jpg')
+# cv2.waitKey(10000000)
+# cv2.destroyAllWindows()
+
+
+
 
 

@@ -1,14 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/frames_analyze.py" line="130" />
-    <bookmark url="file://$PROJECT_DIR$/frames_analyze.py" line="139" />
+    <bookmark url="file://$PROJECT_DIR$/frames_analyze.py" line="147" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c9bd7c9b-a010-4911-b787-32563ccdcef7" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pi_camera.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/servo.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/messi5.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/res.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test pic/canny/639.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test pic/canny/887.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test pic/src/639.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test pic/src/887.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test pic/1.jpg" afterPath="$PROJECT_DIR$/test pic/1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test pic/10.jpg" afterPath="$PROJECT_DIR$/test pic/10.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test pic/11.jpg" afterPath="$PROJECT_DIR$/test pic/11.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test pic/3.jpg" afterPath="$PROJECT_DIR$/test pic/3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test pic/6.jpg" afterPath="$PROJECT_DIR$/test pic/6.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test pic/Thumbs.db" afterPath="$PROJECT_DIR$/test pic/Thumbs.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test pic/canny/1.jpg" afterPath="$PROJECT_DIR$/test pic/canny/1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test pic/canny/10.jpg" afterPath="$PROJECT_DIR$/test pic/canny/10.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test pic/canny/11.jpg" afterPath="$PROJECT_DIR$/test pic/canny/11.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test pic/canny/12.jpg" afterPath="$PROJECT_DIR$/test pic/canny/12.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test pic/canny/13.jpg" afterPath="$PROJECT_DIR$/test pic/canny/13.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test pic/canny/14.jpg" afterPath="$PROJECT_DIR$/test pic/canny/14.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test pic/canny/15.jpg" afterPath="$PROJECT_DIR$/test pic/canny/15.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test pic/canny/16.jpg" afterPath="$PROJECT_DIR$/test pic/canny/16.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test pic/canny/17.jpg" afterPath="$PROJECT_DIR$/test pic/canny/17.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test pic/canny/18.jpg" afterPath="$PROJECT_DIR$/test pic/canny/18.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test pic/canny/19.jpg" afterPath="$PROJECT_DIR$/test pic/canny/19.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test pic/canny/2.jpg" afterPath="$PROJECT_DIR$/test pic/canny/2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test pic/canny/20.jpg" afterPath="$PROJECT_DIR$/test pic/canny/20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test pic/canny/21.jpg" afterPath="$PROJECT_DIR$/test pic/canny/21.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test pic/canny/22.jpg" afterPath="$PROJECT_DIR$/test pic/canny/22.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test pic/canny/3.jpg" afterPath="$PROJECT_DIR$/test pic/canny/3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test pic/canny/4.jpg" afterPath="$PROJECT_DIR$/test pic/canny/4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test pic/canny/5.jpg" afterPath="$PROJECT_DIR$/test pic/canny/5.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test pic/canny/6.jpg" afterPath="$PROJECT_DIR$/test pic/canny/6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test pic/canny/7.jpg" afterPath="$PROJECT_DIR$/test pic/canny/7.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test pic/canny/8.jpg" afterPath="$PROJECT_DIR$/test pic/canny/8.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test pic/canny/9.jpg" afterPath="$PROJECT_DIR$/test pic/canny/9.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test pic/canny/Thumbs.db" afterPath="$PROJECT_DIR$/test pic/canny/Thumbs.db" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test pic/src/1.jpg" afterPath="$PROJECT_DIR$/test pic/src/1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test pic/src/10.jpg" afterPath="$PROJECT_DIR$/test pic/src/10.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test pic/src/11.jpg" afterPath="$PROJECT_DIR$/test pic/src/11.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test pic/src/12.jpg" afterPath="$PROJECT_DIR$/test pic/src/12.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test pic/src/15.jpg" afterPath="$PROJECT_DIR$/test pic/src/15.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test pic/src/17.jpg" afterPath="$PROJECT_DIR$/test pic/src/17.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test pic/src/18.jpg" afterPath="$PROJECT_DIR$/test pic/src/18.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test pic/src/2.jpg" afterPath="$PROJECT_DIR$/test pic/src/2.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test pic/src/20.jpg" afterPath="$PROJECT_DIR$/test pic/src/20.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test pic/src/3.jpg" afterPath="$PROJECT_DIR$/test pic/src/3.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test pic/src/4.jpg" afterPath="$PROJECT_DIR$/test pic/src/4.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test pic/src/6.jpg" afterPath="$PROJECT_DIR$/test pic/src/6.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test pic/src/8.jpg" afterPath="$PROJECT_DIR$/test pic/src/8.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test pic/src/Thumbs.db" afterPath="$PROJECT_DIR$/test pic/src/Thumbs.db" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/frames_analyze.py" afterPath="$PROJECT_DIR$/frames_analyze.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/testcode.py" afterPath="$PROJECT_DIR$/testcode.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,8 +73,8 @@
       <file leaf-file-name="frames_analyze.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/frames_analyze.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="85" column="38" lean-forward="false" selection-start-line="85" selection-start-column="38" selection-end-line="85" selection-end-column="38" />
+            <state relative-caret-position="2204">
+              <caret line="123" column="25" lean-forward="false" selection-start-line="123" selection-start-column="25" selection-end-line="123" selection-end-column="25" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -32,13 +82,37 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="testcode.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="testcode.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testcode.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="549">
-              <caret line="143" column="43" lean-forward="false" selection-start-line="143" selection-start-column="43" selection-end-line="143" selection-end-column="43" />
+            <state relative-caret-position="627">
+              <caret line="33" column="19" lean-forward="false" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="getscreen.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/getscreen.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="551">
+              <caret line="30" column="41" lean-forward="false" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="servo.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/servo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="244">
+              <caret line="32" column="19" lean-forward="true" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#23#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -58,10 +132,14 @@
       <find>#</find>
       <find>bit</find>
       <find>imshow</find>
+      <find>cv2.imshow</find>
     </findStrings>
     <replaceStrings>
       <replace>#</replace>
     </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\LFZ\Desktop\个人项目\WeChat-JumpGame-Cheat</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -69,8 +147,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/frames_analyze.py" />
+        <option value="$PROJECT_DIR$/pi_camera.py" />
+        <option value="$PROJECT_DIR$/test pic/testcode1.py" />
+        <option value="$PROJECT_DIR$/testcode1.py" />
         <option value="$PROJECT_DIR$/testcode.py" />
+        <option value="D:/OpenCV/opencv python/pycharm/Video.py" />
+        <option value="$PROJECT_DIR$/getscreen.py" />
+        <option value="$PROJECT_DIR$/frames_analyze.py" />
+        <option value="$PROJECT_DIR$/servo.py" />
       </list>
     </option>
   </component>
@@ -95,6 +179,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -109,11 +194,11 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/getscreen.py" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -127,7 +212,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in testcode.py">
+  <component name="RunManager" selected="Python.frames_analyze">
     <configuration default="false" name="frames_analyze" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -159,6 +244,57 @@
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;$PROJECT_DIR$/testcode.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="pi_camera" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WeChat JumpGame Cheat" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pi_camera.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unittests in testcode1.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WeChat JumpGame Cheat" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testcode1.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="false" name="getscreen" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="WeChat JumpGame Cheat" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/getscreen.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
@@ -225,14 +361,20 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
-    <list size="2">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.frames_analyze" />
       <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in testcode.py" />
+      <item index="2" class="java.lang.String" itemvalue="Python.pi_camera" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in testcode1.py" />
+      <item index="4" class="java.lang.String" itemvalue="Python.getscreen" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in testcode.py" />
-        <item index="1" class="java.lang.String" itemvalue="Python.frames_analyze" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.frames_analyze" />
+        <item index="1" class="java.lang.String" itemvalue="Python.getscreen" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in testcode.py" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in testcode1.py" />
+        <item index="4" class="java.lang.String" itemvalue="Python.pi_camera" />
       </list>
     </recent_temporary>
   </component>
@@ -250,34 +392,34 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_testcode_py - 2018.01.01 at 01h 56m 33s.xml">
+    <history-entry file="Unittests_in_testcode1_py - 2018.01.01 at 16h 30m 47s.xml">
+      <configuration name="Unittests in testcode1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_testcode1_py - 2018.01.01 at 16h 31m 06s.xml">
+      <configuration name="Unittests in testcode1.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_testcode_py - 2018.01.01 at 21h 35m 35s.xml">
       <configuration name="Unittests in testcode.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_testcode_py - 2018.01.01 at 01h 57m 04s.xml">
+    <history-entry file="Unittests_in_testcode_py - 2018.01.01 at 21h 35m 58s.xml">
       <configuration name="Unittests in testcode.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_testcode_py - 2018.01.01 at 01h 58m 12s.xml">
+    <history-entry file="Unittests_in_testcode_py - 2018.01.01 at 21h 37m 52s.xml">
       <configuration name="Unittests in testcode.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_testcode_py - 2018.01.01 at 01h 58m 40s.xml">
+    <history-entry file="Unittests_in_testcode_py - 2018.01.01 at 21h 38m 24s.xml">
       <configuration name="Unittests in testcode.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_testcode_py - 2018.01.01 at 02h 02m 04s.xml">
+    <history-entry file="Unittests_in_testcode_py - 2018.01.01 at 21h 40m 11s.xml">
       <configuration name="Unittests in testcode.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_testcode_py - 2018.01.01 at 02h 03m 04s.xml">
+    <history-entry file="Unittests_in_testcode_py - 2018.01.01 at 21h 40m 55s.xml">
       <configuration name="Unittests in testcode.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_testcode_py - 2018.01.01 at 02h 03m 38s.xml">
+    <history-entry file="Unittests_in_testcode_py - 2018.01.01 at 21h 41m 36s.xml">
       <configuration name="Unittests in testcode.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_testcode_py - 2018.01.01 at 02h 05m 17s.xml">
-      <configuration name="Unittests in testcode.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_testcode_py - 2018.01.01 at 02h 05m 54s.xml">
-      <configuration name="Unittests in testcode.py" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_in_testcode_py - 2018.01.01 at 02h 06m 46s.xml">
+    <history-entry file="Unittests_in_testcode_py - 2018.01.01 at 21h 47m 36s.xml">
       <configuration name="Unittests in testcode.py" configurationId="tests" />
     </history-entry>
   </component>
@@ -285,25 +427,45 @@
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13457331" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14989059" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3274918" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33747178" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24945295" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39978093" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39954853" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32968238" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3274918" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14004377" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32968238" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24945295" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39978093" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -313,14 +475,173 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/frames_analyze.py</url>
-          <line>30</line>
+          <line>57</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/testcode.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="1" />
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/frames_analyze.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2204">
+          <caret line="123" column="25" lean-forward="false" selection-start-line="123" selection-start-column="25" selection-end-line="123" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="19" lean-forward="false" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getscreen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="30" column="41" lean-forward="true" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="40" column="21" lean-forward="true" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frames_analyze.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2223">
+          <caret line="117" column="27" lean-forward="true" selection-start-line="117" selection-start-column="27" selection-end-line="117" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/OpenCV/opencv python/pycharm/Video.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="19" lean-forward="false" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getscreen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="28" column="29" lean-forward="true" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frames_analyze.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/OpenCV/opencv python/pycharm/Video.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="19" lean-forward="false" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getscreen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frames_analyze.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1577">
+          <caret line="85" column="38" lean-forward="false" selection-start-line="85" selection-start-column="38" selection-end-line="85" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frames_analyze.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1615">
+          <caret line="85" column="38" lean-forward="false" selection-start-line="85" selection-start-column="38" selection-end-line="85" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2622">
+          <caret line="143" column="43" lean-forward="false" selection-start-line="143" selection-start-column="43" selection-end-line="143" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/frames_analyze.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -388,22 +709,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/frames_analyze.py">
+    <entry file="file://$PROJECT_DIR$/test pic/testcode1.py" />
+    <entry file="file://$PROJECT_DIR$/testcode1.py" />
+    <entry file="file://$PROJECT_DIR$/pi_camera.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="85" column="38" lean-forward="false" selection-start-line="85" selection-start-column="38" selection-end-line="85" selection-end-column="38" />
+        <state relative-caret-position="76">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" column="19" lean-forward="false" selection-start-line="33" selection-start-column="19" selection-end-line="33" selection-end-column="19" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testcode.py">
+    <entry file="file://D:/OpenCV/opencv python/pycharm/Video.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="549">
-          <caret line="143" column="43" lean-forward="false" selection-start-line="143" selection-start-column="43" selection-end-line="143" selection-end-column="43" />
+        <state relative-caret-position="380">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/getscreen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="30" column="41" lean-forward="false" selection-start-line="30" selection-start-column="41" selection-end-line="30" selection-end-column="41" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/frames_analyze.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2204">
+          <caret line="123" column="25" lean-forward="false" selection-start-line="123" selection-start-column="25" selection-end-line="123" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/servo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="32" column="19" lean-forward="true" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#23#0" expanded="true" />
           </folding>
         </state>
       </provider>
