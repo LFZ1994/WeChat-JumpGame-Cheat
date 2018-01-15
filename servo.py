@@ -29,29 +29,34 @@ def servo2angle(angle):
 def servoinit():
     p1.start(0)
     p2.start(0)
+    servo1angle(60)
 
 def preparetouch():
-    servo2angle(20)
+    servo2angle(15)
     time.sleep(0.5)
+    return True
 
 def armleave():
-     servo2angle(45)
-     time.sleep(0.5)
+    servo2angle(60)
+    time.sleep(1)
+    return True
 
 def touch(touchtime):
-    defaulttime = 0.5
-    servo1angle(135)
+    defaulttime = 0.2
+    servo1angle(88)
     time.sleep(touchtime+defaulttime)
-    servo1angle(90)
+    servo1angle(60)
+    return True
 
 def touchtest(touchtime):
     preparetouch()
     touch(touchtime)
     time.sleep(0.5)
     armleave()
+    return True
 
-servoinit()
-while(True):
-    str = raw_input("Enter angle: ")
-    touchtime = float(str)
-    touchtest(touchtime)
+# servoinit()
+# while(True):
+#     str = raw_input("Enter angle: ")
+#     touchtime = float(str)
+#     touchtest(touchtime)
